@@ -7,12 +7,12 @@ This project is a custom node for ComfyUI that uses [ArtCoder](https://arxiv.org
 ![alt text](workflow_demo/artcoder_workflow.png)
 
 ## Artcoder Params
-content_images: Images generate by AnimateDiff
-qr_image: QR code image
-content_scaling: scaling for content
-qr_scaling: scaling for scanablity
-resize_width: output width
-resize_height: output height
+content_images: Images generate by AnimateDiff<br>
+qr_image: QR code image<br>
+content_scaling: scaling for content<br>
+qr_scaling: scaling for scanablity<br>
+resize_width: output width<br>
+resize_height: output height<br>
 iteration: ArtCoder refinement iterations
 ## Citation
 Reference for unofficial ArtCoder implement
